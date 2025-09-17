@@ -6,6 +6,7 @@ Me chamo João Victor Altmayer Morais, tenho 22 anos e sou natural do Rio Grande
 
 
 ### 🤖 Linguagens e Tecnologias
+C | C++ | C#
 
 
    
