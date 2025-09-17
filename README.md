@@ -1,16 +1,38 @@
-## Hi there 👋
+# Altmayerz
 
-<!--
-**Altmayerz/Altmayerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cursando | Tecnólogo em ADS**
 
-Here are some ideas to get you started:
+Me chamo João Victor Altmayer Morais, tenho 22 anos e sou natural do Rio Grande do Sul. Possuo formação Técnica em desenhista projetista. Atualmente trabalho com operação de robôs de solda na empresa Agco Corporation, Ibirubá RS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="C"
+    title="C" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+    
+
+          
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css"
+            
+          
+/>
+<img 
+    align="left" 
+    alt="C#" 
+    title="C#"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src= "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+
+   
