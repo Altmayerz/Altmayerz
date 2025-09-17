@@ -1,0 +1,45 @@
+#include <stdio.h>
+
+int main (){
+    int nota1, nota2, nota3, nota4, nota5, nota6, nota7, nota8, nota9, nota10;
+    int total;
+    float media;
+//entrada valor nota 1
+printf("Nota 1:  \n");
+scanf("%d", &nota1);  
+//entrada valor nota 2
+printf("Nota 2:  \n");
+scanf("%d", &nota2);
+//entrada valor nota 3
+printf("nota 3:  \n");
+scanf("%d", &nota3);
+//entrada valor nota 4
+printf("Nota 4:  \n");
+scanf("%d", &nota4);
+//entrada valor nota 5
+printf("Nota 5:  \n");
+scanf("%d", &nota5);
+//entrada valor nota 6
+printf("Nota 6:  \n");
+scanf("%d", &nota6);
+//entrada valor nota 7
+printf("Nota 7:  \n");
+scanf("%d", &nota7);
+//entrada valor nota 8
+printf("Nota 8:  \n");
+scanf("%d", &nota8);
+//entrada valor nota 9
+printf("Nota 9:  \n");
+scanf("%d", &nota9);
+//entrada valor nota 10
+printf("Nota 10:  \n");
+scanf("%d", &nota10);
+//soma do total (soma das x notas)
+    total= nota1+ nota2+ nota3+ nota4+ nota5+ nota6+ nota7+ nota8+ nota9+ nota10;
+    media= (float) total / 10;
+//média (soma das notas / numero de notas)
+    printf("a soma das notas é: %d\n",total);
+    printf("a média da turma é: %.2f\n",media);
+
+    return 0;
+}
