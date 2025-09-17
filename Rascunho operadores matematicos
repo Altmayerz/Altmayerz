@@ -1,0 +1,59 @@
+#include <stdio.h>
+
+int main (){
+//operadores matematicos (mais, menos, vezes e divisão)
+soma (+)
+subtração (-)
+multiplicação (*)
+divisão (/) 
+int numero1, numero2;
+int soma, subtraçao, divisao, multiplicaçao;
+
+printf("entre com o numero 1:  \n");
+scanf("%d", &numero1);
+printf("entre com o numero 2:  \n");         
+scanf("%d", &numero2);
+printf("a soma é:  %d\n", numero1 + numero2);
+printf("a subtração é:  %d\n", numero1 - numero2);
+printf("a multiplicação é:  %d\n", numero1 * numero2);
+printf("a divisao é:  %d\n", numero1 / numero2);
+
+
+//exemplos de atribuição de valor + (soma, subtração, divisao e vezes)
+int numero1 = 25, numero2, resultado;
+resultado = 10;
+printf("resultado:  %d\n", resultado);
+resultado += 20;
+printf("resultado é:  %d\n", resultado);
+resultado -= 5;
+printf("resultado é:  %d\n", resultado); 
+resultado = numero1;
+printf("resultado é:  %d\n", resultado);
+resultado += numero1;
+printf("resultado é:  %d\n", resultado);
+resultado -= numero1;
+printf("resultado é:  %d\n", resultado);
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}
